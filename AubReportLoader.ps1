@@ -15,7 +15,7 @@ $location_id = "[LOCATION ID]"
 
 #Data lake uri
 $data_lake = "[DATA LAKE URI]"
-$sas = "[DATA LAKE SAS"
+$sas = "[DATA LAKE SAS]"
 
 #HTTP Headers
 $headers = @{
